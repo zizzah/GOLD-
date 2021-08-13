@@ -134,11 +134,11 @@ body {
   box-shadow: 0 1px 5px 1px #cccccc;
 }
 #menu-tile {
-  background: url('../images/gold\ \(5\).jpg') no-repeat;
+  background: url('../images/resized-image-Promo\ \(3\).jpeg') no-repeat;
   background-position: center;
 }
 #specials-tile {
-  background: url('../images/gold\ \(4\).jpg') no-repeat;
+  background: url('../images/wed.jpg') no-repeat;
   background-position: center;
 }
 #menu-tile span, #specials-tile span, #map-tile span {
@@ -256,14 +256,14 @@ h3.menu-item-title {
 
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('../images/gold\ \(6\).jpg') no-repeat;
+    background: url('../images/weeding\ \(2\).jpeg') no-repeat;
     height: 675px;
   }
 }
 
 @media (min-width: 1000px) {
   .container .jumbotron {
-    background: url('../images/gold\ \(6\).jpg') no-repeat;
+    background: url('../images/weeding\ \(8\).jpeg') no-repeat;
     height: 675px;
   }
 }
