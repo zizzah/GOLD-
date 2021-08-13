@@ -307,7 +307,7 @@ h3.menu-item-title {
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
   /* Header */
-  .p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10{
+  .p3,.p4,.p5,.p6,.p7,.p8,.p9,.p10,.p2,.p11,.p12,.p13{
     display: none;
   }
   .navbar-brand {
