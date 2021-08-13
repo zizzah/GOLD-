@@ -331,6 +331,12 @@ h3.menu-item-title {
   .container .jumbotron {
     background: url('../images/resize.jpeg') no-repeat;
   }
+  .sub{
+    border: 1px solid black;
+    background-color: black;
+    color: #fff;
+    border-radius: 10px;
+  }
   .main{
     display: block;
   }
