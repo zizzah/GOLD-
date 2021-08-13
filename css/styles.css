@@ -189,7 +189,16 @@ body {
 }
 .main div{
   flex: 1;
-  margin: 5px;
+  margin: 10px;
+}
+.sub{
+  border: 1px solid black;
+  background-color: black;
+  color: #fff;
+  border-radius: 10px;
+}
+.sub p{
+  margin-left: 5px;
 }
 /* END MENU CATEGORIES PAGE */
 
