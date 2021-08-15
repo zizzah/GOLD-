@@ -329,6 +329,13 @@ h3.menu-item-title {
     background-color: url("../images/resize.jpeg");
   }
 
+}
+video{
+  width: 75%;
+  height: 200px;
+  background-color: #f6b319;
+}
+
   .container .jumbotron {
     background: url('../images/resize.jpeg') no-repeat;
   }
@@ -540,7 +547,10 @@ video{
 
 /* On smaller screens, decrease text size */
 @media only screen and (max-width: 300px) {
+
+  
   .prev, .next,.text {font-size: 11px}
+  
 }
 
 
