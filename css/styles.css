@@ -538,5 +538,10 @@ h3.menu-item-title {
 }
 
 
-.mySlides {display: none}
+.mySlides {
+  display: none;
+  
+  
+ 
+}
 img {vertical-align: middle;}
