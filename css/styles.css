@@ -237,6 +237,11 @@ body {
   background-color: #557c3e;
   text-align: center;
 }
+video{
+  width: 100%;
+  background-color: #f6b319;
+  height: 200px;
+}
 .menu-item-description {
   padding-right: 30px;
 }
